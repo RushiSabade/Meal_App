@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+"In my meal project, I utilized Flutter to develop a dynamic multi-screen application, proficiently navigating between various screens. I implemented features such as favoriting meals,
+applying filters to easily find specific dishes, creating an interactive dashboard, and enhancing user experience with a convenient bottom navigation feature."
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
